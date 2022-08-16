@@ -1,0 +1,11 @@
+D:\LearnC# through Book\Proj\WinD_Zero_Kata\WinD_Zero_Kata\bin\Debug\WinD_Zero_Kata.exe.config
+D:\LearnC# through Book\Proj\WinD_Zero_Kata\WinD_Zero_Kata\bin\Debug\WinD_Zero_Kata.exe
+D:\LearnC# through Book\Proj\WinD_Zero_Kata\WinD_Zero_Kata\bin\Debug\WinD_Zero_Kata.pdb
+D:\LearnC# through Book\Proj\WinD_Zero_Kata\WinD_Zero_Kata\obj\Debug\WinD_Zero_Kata.csproj.AssemblyReference.cache
+D:\LearnC# through Book\Proj\WinD_Zero_Kata\WinD_Zero_Kata\obj\Debug\WinD_Zero_Kata.csproj.SuggestedBindingRedirects.cache
+D:\LearnC# through Book\Proj\WinD_Zero_Kata\WinD_Zero_Kata\obj\Debug\WinD_Zero_Kata.Form1.resources
+D:\LearnC# through Book\Proj\WinD_Zero_Kata\WinD_Zero_Kata\obj\Debug\WinD_Zero_Kata.Properties.Resources.resources
+D:\LearnC# through Book\Proj\WinD_Zero_Kata\WinD_Zero_Kata\obj\Debug\WinD_Zero_Kata.csproj.GenerateResource.cache
+D:\LearnC# through Book\Proj\WinD_Zero_Kata\WinD_Zero_Kata\obj\Debug\WinD_Zero_Kata.csproj.CoreCompileInputs.cache
+D:\LearnC# through Book\Proj\WinD_Zero_Kata\WinD_Zero_Kata\obj\Debug\WinD_Zero_Kata.exe
+D:\LearnC# through Book\Proj\WinD_Zero_Kata\WinD_Zero_Kata\obj\Debug\WinD_Zero_Kata.pdb
